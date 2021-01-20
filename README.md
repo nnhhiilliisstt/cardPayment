@@ -1,5 +1,9 @@
 # In the project directory, you can run:
-## npm install
-## ng serve
+## Development server
+npm install<Br>
+ng serve <br>
+open your browser on http://localhost:4200/ <br>
 
-open your browser on http://localhost:4200/ 
+
+## Build
+Run ng build to build the project
