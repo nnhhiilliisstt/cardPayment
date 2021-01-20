@@ -1,4 +1,4 @@
-# In the project directory, you can run:
+# In the project directory, run the following commands for:
 ## Development server
 npm install<Br>
 ng serve <br>
